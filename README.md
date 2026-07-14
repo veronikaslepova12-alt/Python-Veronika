@@ -1,1 +1,1 @@
-# Python-Veronika
+#I love Python
